@@ -1,5 +1,14 @@
 #!/bin/python3
 
+#############################################################################
+## 									   ##
+##	Title : IP Generator						   ## 	
+##									   ##
+##	Author : Ernest Odhiambo Elnino					   ##
+##									   ##
+##	Github : https://github.com/ProtocolWhisperer01 		   ##
+#############################################################################
+
 import ipaddress
 
 def generate_ip_list(start_ip,end_ip):
